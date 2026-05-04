@@ -1,0 +1,11 @@
+path: D:/resources/front_bumper
+
+train: images/train
+val: images/train
+
+names:
+  0: bumper
+  1: window
+  2: scratch
+  3: dent
+  4: crack
